@@ -1,0 +1,29 @@
+Classes:
+
+1. 			represent a playing card with suit and rank
+
+2. DeckOfCards() 	represent deck of cards (model class)
+Constructor: 
+method
+-> Histogram
+-> ToString to report rank and suit
+
+3. Card()		creates card 
+constructor
+method
+-> Getters to report/view the card
+
+3. Main()		view class for assignment (main method)
+method-> shuffle
+4. 
+
+Methods:
+- Histogram
+- Shuffle
+
+"The constructor will create the deck of cards"
+
+A SPADES
+B HEARTS
+C CLUBS
+D DIAMONDS
